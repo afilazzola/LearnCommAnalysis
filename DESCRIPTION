@@ -8,12 +8,22 @@ Description:Ecologists are generally expected to know a larger range of statisti
 License: GPL-3 + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Depends: 
+    tidyverse,
+    reshape2
 Imports:
     tidyverse,
     lme4,
     lmerTest,
-    MASS,
     vegan,
-    mgcv
+    mgcv,
+    lsmeans,
+    reshape2
+Suggests:
+    cluster,
+    factoextra,
+    MASS,
+    knitr,
+    kableExtra
     
     
