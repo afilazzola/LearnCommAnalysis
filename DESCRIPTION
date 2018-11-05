@@ -18,8 +18,7 @@ Imports:
     vegan,
     mgcv,
     lsmeans,
-    reshape2,
-    stringi
+    reshape2
 Suggests:
     cluster,
     factoextra,

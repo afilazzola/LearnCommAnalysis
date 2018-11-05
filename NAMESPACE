@@ -1,3 +1,1 @@
 exportPattern("^[[:alpha:]]+")
-import("stats","tidyverse","reshape2","lmerTest","mgcv","lme4","vegan")
-
