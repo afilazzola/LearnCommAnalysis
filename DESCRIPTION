@@ -23,7 +23,5 @@ Suggests:
     cluster,
     factoextra,
     MASS,
-    knitr,
-    kableExtra
-    
+    knitr
     
